@@ -31,7 +31,7 @@ ul  li  a {
     border: 1px solid #000;
     border-radius: 50%;
     cursor: pointer;
-    box-shadow: rgba(255, 0, 0, 0.7) 0px 7px 29px 0px;
+    box-shadow: #e93e3e 0px 7px 29px 0px;
 }  
 
 .navbar {
