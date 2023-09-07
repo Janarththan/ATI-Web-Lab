@@ -28,7 +28,7 @@ ul  li  a {
 
 ul  li  a:hover {
     color: #e93e3e;
-    transition: color 2s;
+    transition: color 0.3s;
 }
 
 .logo {
